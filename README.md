@@ -77,9 +77,8 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
-![4 ml](https://user-images.githubusercontent.com/93427224/172992421-580ca816-ca31-46c0-8810-086ad7768e00.png)
 
+![4 ml](https://user-images.githubusercontent.com/93427224/172992421-580ca816-ca31-46c0-8810-086ad7768e00.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
